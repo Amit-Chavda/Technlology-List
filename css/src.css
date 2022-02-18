@@ -1,0 +1,14 @@
+body{
+  background-color:black;
+  color:white;
+}
+
+div{
+    height: 40px;
+    width: 100%;
+    background-color:aqua;
+    color: crimson;
+}
+h3{
+  background-color: brown;
+}
